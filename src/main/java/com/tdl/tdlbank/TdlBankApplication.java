@@ -1,4 +1,4 @@
-package com.tdl.tdl_bank;
+package com.tdl.tdlbank;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

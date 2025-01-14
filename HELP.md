@@ -1,7 +1,7 @@
 # Read Me First
 The following was discovered as part of building this project:
 
-* The original package name 'com.tdl.tdl-bank' is invalid and this project uses 'com.tdl.tdl_bank' instead.
+* The original package name 'com.tdl.tdl-bank' is invalid and this project uses 'com.tdl.tdlbank' instead.
 
 # Getting Started
 
